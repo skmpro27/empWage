@@ -7,5 +7,7 @@ public class emp {
 			System.out.println("Employee is Present");
 		else
 			System.out.println("Employee is Abscent");
+		int daily = 20*8;
+		System.out.println("Daily Wages for 8 hrs work: " + daily); //uc2
 	}
 }
